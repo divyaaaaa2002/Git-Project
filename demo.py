@@ -1,3 +1,3 @@
-a=2
-b=3
-c=a+b
+int i=10
+int j=20
+int k=j-i
